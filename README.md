@@ -52,50 +52,35 @@ Trouvé un article entre deux date.
 ![base_de_donnes](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/102d7714-77ad-4422-9221-f000ff767f6b)
 
 
-### Article :
+### Categorie :
 
 ![Article](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/e1dc70e5-ff6e-45f9-8550-ff4237ba0fb7)
 
 
 ###  1_Afficher :
 
-![get](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4a215f44-65c3-437c-a05d-e0d4f99c36cf)
+![AfficherCategorie](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/f7d33869-2397-4b79-8786-712cb3e4c3a6)
 
-![get_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/37491db9-20b8-4a1d-a9d0-89f8ffb1269b)
+![AfficherCategorie2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/5b8d9d2f-7717-4cb9-8187-ff82aa513327)
 
 ###  2_Ajouter :
-
-![POST](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/655bf8e9-af75-4524-bb27-83c0477a81b4)
-
-![POST_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/a4db24aa-c9c6-464b-b733-557ba3a4e5ab)
 
 
 ###  3_Supprimé :
 
-![delete-filiere-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/f7505129-99fa-4f67-b843-b88a3550ed09)
+###  4_Modifié :
 
-![delete-filiere-by-student-Id_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/e17e580e-70dd-4d07-8a33-b4e2e4ab9067)
+###  5-Affichez-By-id:
 
-###  4-Get-filiere-by-student-Id:
+![AfficherCategorieid1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/6bd828df-1a1c-4606-bf76-39e009ad0ba2)
 
-![get-filiere-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/363f0c33-cb83-4ec4-8dbf-ec08f725b093)
-
-![get-filiere-by-student-Id_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/d57495b0-2359-4e81-a7a8-398c0713a2a3)
-
-###  5_Get-role-by-student-Id:
-
-![get-role-by-student-Id_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/840fbf6c-3365-4b46-bcdb-52e54e72a373)
-
-![get-role-by-student-Id-2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/cd71abc0-4102-42d6-bc16-a9a768bf3438)
-
-###  6_Get-etudiantbyid:
-
-![get_etudiantbyid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/7652e7b8-1fa4-46ce-a4fc-47b52604c58b)
-
-![get_etudiantbyid_2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/5fed9045-3f95-46c4-b66b-66113dd34c49)
+![AfficherCategorieid3](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/d746133d-04a7-4509-9d24-076d65cee29d)
 
 
-###  Categorie :
+
+
+
+###  Article :
 
 ![Categorie](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/efd937d9-0145-4d62-9471-d4ccc156ef2e)
 
@@ -104,46 +89,27 @@ Trouvé un article entre deux date.
 
 ###  1_Afficher :
 
-![GET](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/48198413-a3af-40ed-849c-e977eb33bd4f)
+![AfficherArticle](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/6c84a6c6-b4c1-41d8-a815-8f3c36ab21b8)
 
-![GET_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/34fa7bd6-fab1-480e-ae37-f6895811b19a)
-
-![get_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/ba7922f5-3285-4997-a10f-eacec53fe3e4)
-
-![get_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/553c1615-935b-4eee-a48d-609ee43c2722)
+![AfficherArticle2](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/d62b68f6-4b6d-4382-9c5b-2e7ce978945f)
 
 
 ###  2_Ajouter :
 
-![POST](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/83999317-727a-4e2f-962c-ad388ec07f78)
-
-![POST_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/1dc39971-c333-4d2c-8a20-0eca1874318a)
-
-![post_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/c588c6ba-84af-41f4-8078-185a8d5bb74e)
-
-![post_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/8af76ead-a164-4d09-b8b5-b5a6d36e08de)
 
 
 ###  3-Modifié :
 
 
-![put_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/82851c3d-1c71-44fb-9568-b96e8c02bbf1)
-
-![put_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/4fc5ea91-1d1e-4324-80c0-a8cf9ea95b4c)
-
-![patch_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/f9d88750-35bf-4ded-9c20-24168fe2b0e0)
-
-![patch_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/acd7f973-a1c5-4ac7-8db3-2af0e33d1fe1)
 
 ###  4_Supprimé :
 
-![DELET_filiere_1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/b0fe82ba-ca24-4460-ad38-29ca245b15ae)
 
-![DELET_filiere_2](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/41984bc6-a35c-44a1-a392-cc6087aba742)
+###  5_Affiches_by_id:
 
-###  5_Get-filierebyid:
+![AfficherArticleid1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/457a128d-e209-437c-8b18-1fa6bca4d809)
 
-![get_filiere_byid_1](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot/assets/130571009/470b868f-e108-4e6a-9670-4d72abcfe389)
+![AfficherArticleid3](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/ab99844f-9ba6-455c-990b-68a2d1acae0c)
 
 
 ###  comment exécuter le projet 
