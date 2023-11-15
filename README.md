@@ -129,7 +129,7 @@ Trouvé un article entre deux date.
 
 ![AfficherArticleid3](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/ab99844f-9ba6-455c-990b-68a2d1acae0c)
 
-###  5_Affiche_par_date_entre 2023-10-01 et 2023-11-30:
+###  5_Affiche_par_date_entre 2023-11-01 et 2023-11-30:
 
 ![Entredate](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/0d3692d5-600f-4a24-8889-002e7be8c23c)
 
