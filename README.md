@@ -67,15 +67,18 @@ Trouvé un article entre deux date.
 
 ![prem](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/d24e05cf-8676-47d7-ade6-cb4f6d27c024)
 
-###  3_Supprimé :
+
+###  3_Modifié :
+
+
+![letrre](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/34ca7432-a94a-4ab2-ab73-4fb500e30162)
+
+
+###  4_Supprimé :
 
 ![CATSUPP](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/f31d1d2e-ca4c-4a0f-ba6c-2323d22f1ecf)
 
 
-###  4_Modifié :
-
-
-![prem](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/d24e05cf-8676-47d7-ade6-cb4f6d27c024)
 
 ###  5-Affichez-By-id:
 
