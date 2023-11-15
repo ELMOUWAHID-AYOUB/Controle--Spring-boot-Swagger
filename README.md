@@ -109,7 +109,8 @@ Trouvé un article entre deux date.
 ###  3-Modifié :
 
 
-![cprem](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/fa31e28f-9c40-4ac8-bdee-8e41d1b1043a)
+![jus](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/db40110e-2832-4342-af06-30e39a77cdf7)
+
 
 ###  4_Supprimé :
 
