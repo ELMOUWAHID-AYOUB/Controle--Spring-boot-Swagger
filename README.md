@@ -29,10 +29,10 @@ Swagger :Swagger est un ensemble d'outils open source qui aide les développeurs
 
    L'utilisateur dispose de plusieurs fonctionnalités pour gérer les roles dans le système. Tout d'abord, il peut ajouter un nouvelle role en spécifiant des détails tels que le nom de role  et l'utilisateur peut supprimer définitivement un role spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à ce role dans le système , et en fin il peut modifié les deférentes champs de role.
 
-  3_Opérations CRUD (Create , Delete ,update) pour filiere: 
 
 
-   4_D'autre fonctionalité:
+
+   3_D'autre fonctionalité:
   
 Affichez les articles d'un categorie.
 
