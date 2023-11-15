@@ -68,6 +68,9 @@ Trouvé un article entre deux date.
 
 ###  3_Supprimé :
 
+
+![CATSUPP](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/b0a2eabc-99c9-459e-b1bc-705657eb15d1)
+
 ###  4_Modifié :
 
 ###  5-Affichez-By-id:
@@ -104,6 +107,8 @@ Trouvé un article entre deux date.
 
 ###  4_Supprimé :
 
+
+![SUPARTICLE](https://github.com/ELMOUWAHID-AYOUB/Tp-Spring-boot-Swagger/assets/130571009/d452ba9b-2428-4cc3-b79b-821bba7a0100)
 
 ###  5_Affiches_by_id:
 
