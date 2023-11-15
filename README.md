@@ -1,5 +1,4 @@
-# Controle--Spring-boot-Swagger
-# Tp-Spring-boot&Swagger
+# Controle--Spring-boot&Swagger
 
 ### I Introduction :
 
